@@ -53,17 +53,20 @@ export function useSensorStream() {
     return () => ws.close()
   }, [])
 
-  const toggleMotor = (on: boolean) => {
-    if (wsRef.current?.readyState === WebSocket.OPEN) {
-      const cmd = { type: 'setMotor', payload: { on } }
-      wsRef.current.send(JSON.stringify(cmd))
-    }
-  }
-
   const autoMotor = () => {
     if (wsRef.current?.readyState === WebSocket.OPEN) {
       const cmd: CommandMessage = { type: 'autoMotor', payload: null }
       wsRef.current.send(JSON.stringify(cmd))
+    }
+  }
+
+  const toggleMotor = (on: boolean) => {
+    if (wsRef.current?.readyState === WebSocket.OPEN) {
+      const cmd = { type: 'setMotor', payload: { on } }
+      wsRef.current.send(JSON.stringify(cmd))
+      if (!on) {
+        autoMotor()
+      }
     }
   }
 
