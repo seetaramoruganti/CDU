@@ -1,0 +1,2417 @@
+for loop initilized
+2025-06-06T12:04:31.536 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:04:31.547 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:04:31.547 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.00°C 
+[COOLANT] 421.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.00 L/min
+for loop initilized
+2025-06-06T12:04:38.444 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:04:38.455 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e8]
+2025-06-06T12:04:38.455 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e8]
+Analog Temp: 300.24°C
+[TEMP] 27.00°C 
+[COOLANT] 426.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.80 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:04:45.357 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:04:45.367 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e8]
+2025-06-06T12:04:45.368 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.00°C 
+[COOLANT] 416.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.67 L/min
+Flow: 0.40 L/min
+for loop initilized
+2025-06-06T12:04:52.236 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:04:52.247 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:04:52.247 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e8]
+Analog Temp: 300.24°C
+[TEMP] 27.00°C 
+[COOLANT] 422.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:04:59.149 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:04:59.160 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:04:59.160 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.06°C 
+[COOLANT] 441.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.80 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:05:06.028 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:05:06.039 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:05:06.039 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.06°C 
+[COOLANT] 446.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:05:13.229 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:05:13.239 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:05:13.240 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.12°C 
+[COOLANT] 445.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 6.00 L/min
+for loop initilized
+2025-06-06T12:05:20.108 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:05:20.119 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:05:20.119 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.12°C 
+[COOLANT] 404.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:05:27.020 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:05:27.031 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:05:27.031 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.06°C 
+[COOLANT] 443.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:05:33.932 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:05:33.943 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:05:33.943 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.12°C 
+[COOLANT] 425.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.40 L/min
+for loop initilized
+2025-06-06T12:05:40.844 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:05:40.855 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:05:40.855 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.12°C 
+[COOLANT] 408.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:05:47.756 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:05:47.767 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:05:47.767 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.12°C 
+[COOLANT] 435.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.80 L/min
+Flow: 6.00 L/min
+for loop initilized
+2025-06-06T12:05:54.636 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:05:54.647 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:05:54.647 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.19°C 
+[COOLANT] 432.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:06:01.548 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:06:01.559 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:06:01.559 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.19°C 
+[COOLANT] 407.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:06:08.428 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:06:08.439 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:06:08.439 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.12°C 
+[COOLANT] 445.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.80 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:06:15.341 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:06:15.352 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:06:15.352 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.12°C 
+[COOLANT] 420.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.27 L/min
+for loop initilized
+2025-06-06T12:06:22.253 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:06:22.264 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:06:22.264 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.06°C 
+[COOLANT] 401.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.00 L/min
+for loop initilized
+2025-06-06T12:06:29.164 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:06:29.175 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:06:29.175 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.06°C 
+[COOLANT] 446.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.80 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:06:36.044 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:06:36.055 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:06:36.055 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+Analog Temp: 297.65°C
+[TEMP] 27.06°C 
+[COOLANT] 426.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 6.00 L/min
+for loop initilized
+2025-06-06T12:06:42.924 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:06:42.935 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:06:42.935 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.00°C 
+[COOLANT] 401.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.00 L/min
+for loop initilized
+2025-06-06T12:06:49.804 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:06:49.815 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:06:49.815 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.94°C 
+[COOLANT] 428.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:06:56.716 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:06:56.727 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:06:56.727 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.00°C 
+[COOLANT] 404.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.67 L/min
+Flow: 0.40 L/min
+for loop initilized
+2025-06-06T12:07:03.628 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:07:03.639 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:07:03.639 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.00°C 
+[COOLANT] 444.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.80 L/min
+Flow: 6.00 L/min
+for loop initilized
+2025-06-06T12:07:10.541 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:07:10.552 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:07:10.552 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.00°C 
+[COOLANT] 404.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.40 L/min
+for loop initilized
+2025-06-06T12:07:17.452 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:07:17.464 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:07:17.464 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.94°C 
+[COOLANT] 444.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:07:24.369 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:07:24.380 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:07:24.380 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.88°C 
+[COOLANT] 420.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.67 L/min
+Flow: 0.40 L/min
+for loop initilized
+2025-06-06T12:07:31.276 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:07:31.287 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:07:31.288 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.88°C 
+[COOLANT] 425.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.00 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:07:38.188 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:07:38.199 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:07:38.199 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.88°C 
+[COOLANT] 439.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:07:45.100 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:07:45.111 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:07:45.111 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.81°C 
+[COOLANT] 441.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 6.00 L/min
+for loop initilized
+2025-06-06T12:07:52.012 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:07:52.023 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:07:52.023 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.75°C 
+[COOLANT] 403.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.00 L/min
+for loop initilized
+2025-06-06T12:07:58.925 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:07:58.936 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:07:58.936 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.75°C 
+[COOLANT] 425.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.00 L/min
+Flow: 0.00 L/min
+for loop initilized
+2025-06-06T12:08:05.837 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:08:05.848 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:08:05.848 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.75°C 
+[COOLANT] 414.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.00 L/min
+Flow: 0.00 L/min
+for loop initilized
+2025-06-06T12:08:12.749 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:08:12.759 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:08:12.760 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.69°C 
+[COOLANT] 433.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+[Ultrasonic] Echo HIGH timeout
+2025-06-06T12:08:19.758 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:08:19.769 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:08:19.770 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.69°C 
+[COOLANT] 447.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:08:26.668 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:08:26.679 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:08:26.679 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.69°C 
+[COOLANT] 410.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.27 L/min
+for loop initilized
+2025-06-06T12:08:33.548 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:08:33.559 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:08:33.560 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.69°C 
+[COOLANT] 449.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:08:40.460 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:08:40.471 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:08:40.471 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.69°C 
+[COOLANT] 404.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.40 L/min
+for loop initilized
+2025-06-06T12:08:47.724 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:08:47.735 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:08:47.735 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.69°C 
+[COOLANT] 430.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:08:54.636 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:08:54.647 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:08:54.648 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+Analog Temp: 297.65°C
+[TEMP] 26.69°C 
+[COOLANT] 404.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.40 L/min
+for loop initilized
+2025-06-06T12:09:01.548 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:09:01.559 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:09:01.559 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.62°C 
+[COOLANT] 449.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:09:08.461 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:09:08.472 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:09:08.472 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.62°C 
+[COOLANT] 448.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.60 L/min
+Flow: 5.73 L/min
+for loop initilized
+2025-06-06T12:09:15.372 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:09:15.383 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:09:15.383 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.69°C 
+[COOLANT] 442.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.60 L/min
+Flow: 6.00 L/min
+for loop initilized
+2025-06-06T12:09:22.252 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:09:22.263 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:09:22.263 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.69°C 
+[COOLANT] 400.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.67 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:09:29.164 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:09:29.175 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:09:29.175 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.69°C 
+[COOLANT] 434.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:09:36.044 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:09:36.056 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:09:36.056 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [ea]
+Analog Temp: 302.82°C
+[TEMP] 26.69°C 
+[COOLANT] 446.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:09:42.956 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:09:42.967 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [ea]
+2025-06-06T12:09:42.967 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.69°C 
+[COOLANT] 429.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.60 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:09:49.868 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:09:49.879 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:09:49.879 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.75°C 
+[COOLANT] 406.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:09:56.780 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:09:56.791 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:09:56.791 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.81°C 
+[COOLANT] 433.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.73 L/min
+for loop initilized
+2025-06-06T12:10:03.660 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:10:03.671 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:10:03.672 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.81°C 
+[COOLANT] 441.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.60 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:10:10.540 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:10:10.551 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:10:10.551 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.88°C 
+[COOLANT] 437.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:10:17.708 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:10:17.720 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:10:17.720 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.94°C 
+[COOLANT] 442.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.60 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:10:24.588 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:10:24.599 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:10:24.599 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.94°C 
+[COOLANT] 412.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:10:31.468 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:10:31.479 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:10:31.479 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.00°C 
+[COOLANT] 412.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.00 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:10:38.348 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:10:38.359 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:10:38.359 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.00°C 
+[COOLANT] 443.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:10:45.261 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:10:45.272 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:10:45.272 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.00°C 
+[COOLANT] 448.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:10:52.172 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:10:52.183 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:10:52.183 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.00°C 
+[COOLANT] 430.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.60 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:10:59.084 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:10:59.095 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:10:59.095 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.12°C 
+[COOLANT] 418.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.00 L/min
+for loop initilized
+2025-06-06T12:11:05.996 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:11:06.007 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:11:06.007 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.12°C 
+[COOLANT] 428.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:11:12.908 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:11:12.919 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:11:12.919 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.19°C 
+[COOLANT] 406.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.40 L/min
+for loop initilized
+2025-06-06T12:11:19.788 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:11:19.799 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:11:19.799 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.19°C 
+[COOLANT] 401.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.00 L/min
+for loop initilized
+2025-06-06T12:11:26.700 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:11:26.711 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:11:26.711 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.19°C 
+[COOLANT] 405.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.00 L/min
+for loop initilized
+2025-06-06T12:11:33.612 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:11:33.623 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:11:33.623 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.19°C 
+[COOLANT] 434.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.80 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:11:40.493 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:11:40.503 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:11:40.504 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.19°C 
+[COOLANT] 425.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.40 L/min
+for loop initilized
+2025-06-06T12:11:47.392 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:11:47.403 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:11:47.403 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.12°C 
+[COOLANT] 414.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:11:54.284 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:11:54.295 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:11:54.295 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.12°C 
+[COOLANT] 412.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:12:01.196 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:12:01.206 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:12:01.207 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.06°C 
+[COOLANT] 427.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.80 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:12:08.108 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:12:08.119 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:12:08.119 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.06°C 
+[COOLANT] 419.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.40 L/min
+for loop initilized
+2025-06-06T12:12:14.988 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:12:14.999 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:12:14.999 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.06°C 
+[COOLANT] 414.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:12:21.900 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:12:21.911 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:12:21.911 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.12°C 
+[COOLANT] 436.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.73 L/min
+for loop initilized
+2025-06-06T12:12:28.812 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:12:28.823 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:12:28.823 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.06°C 
+[COOLANT] 406.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.27 L/min
+for loop initilized
+2025-06-06T12:12:35.725 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:12:35.736 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:12:35.736 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.06°C 
+[COOLANT] 443.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.73 L/min
+for loop initilized
+2025-06-06T12:12:42.605 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:12:42.616 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:12:42.616 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.06°C 
+[COOLANT] 401.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.40 L/min
+for loop initilized
+2025-06-06T12:12:49.612 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:12:49.623 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:12:49.623 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.12°C 
+[COOLANT] 436.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.80 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:12:56.492 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:12:56.503 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:12:56.503 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.12°C 
+[COOLANT] 422.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.40 L/min
+for loop initilized
+2025-06-06T12:13:03.372 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:13:03.383 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:13:03.383 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.25°C 
+[COOLANT] 421.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:13:10.284 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:13:10.295 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:13:10.295 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.19°C 
+[COOLANT] 407.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:13:17.165 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:13:17.176 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:13:17.176 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.25°C 
+[COOLANT] 414.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:13:24.076 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:13:24.087 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:13:24.087 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.19°C 
+[COOLANT] 416.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:13:30.988 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:13:30.999 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:13:30.999 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.19°C 
+[COOLANT] 411.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:13:37.868 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:13:37.879 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:13:37.879 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.06°C 
+[COOLANT] 428.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.80 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:13:44.748 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:13:44.759 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:13:44.759 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e8]
+Analog Temp: 300.24°C
+[TEMP] 27.06°C 
+[COOLANT] 443.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:13:51.628 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:13:51.639 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e8]
+2025-06-06T12:13:51.639 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.00°C 
+[COOLANT] 400.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.67 L/min
+Flow: 0.40 L/min
+for loop initilized
+2025-06-06T12:13:58.540 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:13:58.551 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:13:58.551 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.00°C 
+[COOLANT] 445.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.80 L/min
+Flow: 5.73 L/min
+for loop initilized
+2025-06-06T12:14:05.420 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:14:05.431 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:14:05.431 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.00°C 
+[COOLANT] 439.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:14:12.300 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:14:12.311 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:14:12.311 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.94°C 
+[COOLANT] 401.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.27 L/min
+for loop initilized
+2025-06-06T12:14:19.180 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:14:19.191 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e8]
+2025-06-06T12:14:19.191 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.94°C 
+[COOLANT] 422.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.00 L/min
+for loop initilized
+2025-06-06T12:14:26.060 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:14:26.071 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:14:26.071 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.94°C 
+[COOLANT] 439.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:14:32.940 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:14:32.951 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:14:32.951 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.94°C 
+[COOLANT] 410.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.40 L/min
+for loop initilized
+2025-06-06T12:14:39.820 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:14:39.831 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:14:39.831 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.88°C 
+[COOLANT] 416.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.00 L/min
+for loop initilized
+2025-06-06T12:14:46.733 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:14:46.744 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:14:46.744 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.88°C 
+[COOLANT] 429.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.80 L/min
+Flow: 5.73 L/min
+for loop initilized
+2025-06-06T12:14:53.644 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:14:53.655 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:14:53.655 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.88°C 
+[COOLANT] 446.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:15:00.524 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:15:00.535 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:15:00.535 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.88°C 
+[COOLANT] 448.00ml 
+[VIBRATION] 1.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:15:07.436 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:15:07.447 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:15:07.447 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 26.94°C 
+[COOLANT] 406.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.00 L/min
+for loop initilized
+2025-06-06T12:15:14.317 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:15:14.327 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:15:14.328 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.00°C 
+[COOLANT] 445.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:15:21.356 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:15:21.367 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:15:21.367 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.06°C 
+[COOLANT] 444.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:15:28.268 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:15:28.279 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:15:28.279 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.12°C 
+[COOLANT] 422.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.67 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:15:35.148 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:15:35.159 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:15:35.160 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.19°C 
+[COOLANT] 447.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:15:42.060 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:15:42.071 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:15:42.071 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.19°C 
+[COOLANT] 443.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.60 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:15:48.972 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:15:48.983 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:15:48.983 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.19°C 
+[COOLANT] 427.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.60 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:15:55.884 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:15:55.894 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:15:55.895 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.19°C 
+[COOLANT] 435.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.60 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:16:02.764 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:16:02.774 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:16:02.775 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.25°C 
+[COOLANT] 416.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.00 L/min
+for loop initilized
+2025-06-06T12:16:09.968 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:16:09.981 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:16:09.981 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.25°C 
+[COOLANT] 426.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.80 L/min
+Flow: 5.73 L/min
+for loop initilized
+2025-06-06T12:16:16.877 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:16:16.888 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:16:16.888 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.31°C 
+[COOLANT] 445.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.60 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:16:23.756 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:16:23.767 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:16:23.767 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.38°C 
+[COOLANT] 404.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:16:30.673 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:16:30.683 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:16:30.684 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+Analog Temp: 297.65°C
+[TEMP] 27.38°C 
+[COOLANT] 420.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.00 L/min
+for loop initilized
+2025-06-06T12:16:37.581 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:16:37.592 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:16:37.592 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.38°C 
+[COOLANT] 431.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.80 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:16:44.460 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:16:44.471 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:16:44.471 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.38°C 
+[COOLANT] 404.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.40 L/min
+for loop initilized
+2025-06-06T12:16:51.341 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:16:51.352 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:16:51.352 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.38°C 
+[COOLANT] 444.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:16:58.220 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:16:58.231 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:16:58.231 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.44°C 
+[COOLANT] 404.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.67 L/min
+Flow: 0.40 L/min
+for loop initilized
+2025-06-06T12:17:05.132 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:17:05.143 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:17:05.143 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.50°C 
+[COOLANT] 445.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:17:13.057 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:17:13.067 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:17:13.068 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.50°C 
+[COOLANT] 431.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:17:20.333 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:17:20.344 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:17:20.344 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.44°C 
+[COOLANT] 441.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.60 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:17:27.468 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:17:27.478 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:17:27.479 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.44°C 
+[COOLANT] 438.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:17:34.348 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:17:34.359 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:17:34.359 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e8]
+Analog Temp: 300.24°C
+[TEMP] 27.50°C 
+[COOLANT] 425.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.00 L/min
+for loop initilized
+2025-06-06T12:17:41.229 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:17:41.240 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:17:41.240 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e9]
+Analog Temp: 301.53°C
+[TEMP] 27.50°C 
+[COOLANT] 439.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:17:48.140 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:17:48.150 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e9]
+2025-06-06T12:17:48.151 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e8]
+Analog Temp: 300.24°C
+[TEMP] 27.50°C 
+[COOLANT] 435.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:17:55.021 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:17:55.031 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e8]
+2025-06-06T12:17:55.032 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.50°C 
+[COOLANT] 424.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:18:01.900 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:18:01.911 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:18:01.911 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 298.94°C
+[TEMP] 27.56°C 
+[COOLANT] 419.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.00 L/min
+Flow: 0.00 L/min
+for loop initilized
+2025-06-06T12:18:08.780 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:18:08.791 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:18:08.791 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e8]
+Analog Temp: 300.24°C
+[TEMP] 27.56°C 
+[COOLANT] 441.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.73 L/min
+for loop initilized
+2025-06-06T12:18:16.141 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:18:16.152 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e8]
+2025-06-06T12:18:16.152 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e9]
+Analog Temp: 301.53°C
+[TEMP] 27.62°C 
+[COOLANT] 409.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.53 L/min
+for loop initilized
+2025-06-06T12:18:23.052 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:18:23.063 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e9]
+2025-06-06T12:18:23.063 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e8]
+Analog Temp: 300.24°C
+[TEMP] 27.69°C 
+[COOLANT] 421.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+for loop initilized
+2025-06-06T12:24:46.605 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:24:46.616 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e8]
+2025-06-06T12:24:46.616 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.38°C 
+[COOLANT] 429.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:24:53.516 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:24:53.527 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:24:53.527 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.31°C 
+[COOLANT] 424.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.67 L/min
+Flow: 0.53 L/min
+for loop initilized
+2025-06-06T12:25:00.428 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:25:00.439 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:25:00.439 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.25°C 
+[COOLANT] 403.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:25:07.341 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:25:07.352 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:25:07.352 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.25°C 
+[COOLANT] 422.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:25:14.252 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:25:14.263 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:25:14.263 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.25°C 
+[COOLANT] 415.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:25:21.133 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:25:21.143 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:25:21.144 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.31°C 
+[COOLANT] 404.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:25:28.013 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:25:28.024 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:25:28.024 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.31°C 
+[COOLANT] 444.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.80 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:25:34.892 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:25:34.903 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:25:34.903 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.38°C 
+[COOLANT] 434.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:25:41.772 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:25:41.783 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:25:41.783 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.38°C 
+[COOLANT] 424.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:25:48.652 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:25:48.663 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:25:48.663 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.38°C 
+[COOLANT] 436.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:25:55.564 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:25:55.575 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:25:55.575 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.38°C 
+[COOLANT] 401.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.67 L/min
+Flow: 0.27 L/min
+for loop initilized
+2025-06-06T12:26:02.444 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:26:02.455 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:26:02.455 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.44°C 
+[COOLANT] 447.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:26:09.356 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:26:09.367 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:26:09.367 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.44°C 
+[COOLANT] 401.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.40 L/min
+for loop initilized
+2025-06-06T12:26:16.236 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:26:16.247 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:26:16.247 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.44°C 
+[COOLANT] 436.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.80 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:26:23.116 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:26:23.127 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:26:23.127 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.44°C 
+[COOLANT] 417.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.53 L/min
+for loop initilized
+2025-06-06T12:26:30.380 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:26:30.391 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:26:30.391 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.44°C 
+[COOLANT] 421.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:26:37.292 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:26:37.303 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:26:37.303 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.31°C 
+[COOLANT] 423.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:26:44.172 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:26:44.183 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:26:44.183 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.31°C 
+[COOLANT] 408.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:26:51.052 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:26:51.063 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:26:51.063 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.25°C 
+[COOLANT] 417.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.13 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:26:57.932 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:26:57.943 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:26:57.943 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.19°C 
+[COOLANT] 438.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:27:04.812 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:27:04.823 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:27:04.823 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.12°C 
+[COOLANT] 420.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:27:11.724 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:27:11.735 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:27:11.735 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.06°C 
+[COOLANT] 402.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.00 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:27:18.604 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:27:18.614 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:27:18.615 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.00°C 
+[COOLANT] 439.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.73 L/min
+for loop initilized
+2025-06-06T12:27:25.484 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:27:25.495 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:27:25.495 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.00°C 
+[COOLANT] 439.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:27:32.396 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:27:32.407 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:27:32.407 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 26.94°C 
+[COOLANT] 405.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.67 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:27:39.308 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:27:39.319 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:27:39.319 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 26.94°C 
+[COOLANT] 436.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.80 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:27:46.188 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:27:46.199 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:27:46.199 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 26.94°C 
+[COOLANT] 409.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.27 L/min
+for loop initilized
+2025-06-06T12:27:53.068 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:27:53.079 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:27:53.079 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 26.94°C 
+[COOLANT] 413.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.00 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:28:00.004 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:28:00.015 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:28:00.015 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 26.94°C 
+[COOLANT] 448.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:28:07.189 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:28:07.200 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:28:07.201 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.00°C 
+[COOLANT] 418.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.40 L/min
+for loop initilized
+2025-06-06T12:28:14.092 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:28:14.103 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:28:14.103 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.00°C 
+[COOLANT] 431.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+[TempSensor] CRC check failed or bad data
+2025-06-06T12:28:20.194 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:28:20.205 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:28:20.205 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 0.00°C 
+[COOLANT] 444.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 5.87 L/min
+for loop initilized
+[TempSensor] CRC check failed or bad data
+2025-06-06T12:28:26.323 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:28:26.333 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:28:26.334 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 0.00°C 
+[COOLANT] 449.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:28:33.232 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:28:33.243 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:28:33.243 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.12°C 
+[COOLANT] 448.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.60 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:28:40.140 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:28:40.151 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:28:40.152 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.12°C 
+[COOLANT] 405.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 2.53 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:28:47.024 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:28:47.035 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:28:47.036 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.19°C 
+[COOLANT] 401.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Deactivating motor
+
+Flow: 0.00 L/min
+Flow: 0.13 L/min
+for loop initilized
+2025-06-06T12:28:53.932 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:28:53.943 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:28:53.943 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.25°C 
+[COOLANT] 439.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 4.67 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:29:00.812 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:29:00.823 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:29:00.824 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.25°C 
+[COOLANT] 437.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.73 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:29:07.724 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:29:07.735 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e6]
+2025-06-06T12:29:07.735 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.38°C 
+[COOLANT] 448.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.60 L/min
+Flow: 5.87 L/min
+for loop initilized
+2025-06-06T12:29:14.637 [     i2c] [37mDEBUG[0m  Write 1 hex bytes: [40]
+2025-06-06T12:29:14.647 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+2025-06-06T12:29:14.648 [     i2c] [37mDEBUG[0m  Read 1 hex bytes: [e7]
+Analog Temp: 29.89°C
+[TEMP] 27.38°C 
+[COOLANT] 437.00ml 
+[VIBRATION] 0.00 
+[LEAK DETECTOR] false 
+[FLAME] Detected: false 
+[SMOKE] Detected: false 
+[MOTOR] Activating motor for cooling
+
+Flow: 5.60 L/min
+Flow: 5.87 L/min
+for loop initilized
