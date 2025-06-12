@@ -113,17 +113,25 @@ func main() {
 		smoke := sensors.ReadGasAlert()
 
 		// Analog temp with retry
-		tempAnalog, err := sensors.ReadTemperatureFromADC(adc)
-		if adc != nil && err != nil {
-			log.Println("Analog Temp read error, reinitializing ADC:", err)
-			adc.Close()
-			time.Sleep(time.Second)
-			adc, _ = sensors.InitPCF8591()
+		var tempAnalog float64
+		if adc != nil {
+			tempAnalog, err = sensors.ReadTemperatureFromADC(adc)
+			if err != nil {
+				log.Println("Analog Temp read error, reinitializing ADC:", err)
+				adc.Close()
+				time.Sleep(time.Second)
+				adc, _ = sensors.InitPCF8591()
+			}
 		}
 
-		// Motor control
-		motorOn := sensors.EvaluateMotorState(tempDigital, level)
-		sensors.SetMotor(motorOn)
+		// Motor control with manual override
+		var motorOn bool
+		if sensors.ManualOverride() {
+			motorOn = sensors.ManualState()
+		} else {
+			motorOn = sensors.EvaluateMotorState(tempDigital, level)
+			sensors.SetMotor(motorOn)
+		}
 
 		// Flow rates
 		inFlow, _ := fm.Measure(time.Second)
@@ -131,9 +139,7 @@ func main() {
 
 		// Log readings
 		fmt.Printf("[TEMP] %.2f°C \n, [COOLANT] %.2fml \n, [VIBRATION] %.2f \n, [LEAK] %v \n, [FLAME] %v \n, [SMOKE] %v \n, [Motor Status] %v \n, [IN FLOW RATE] %.2f \n, [OUT FLOW RATE] %.2f \n",
-			tempDigital, level, vibration, leak, flame, smoke, motorOn ,inFlow, outFlow)
-
-
+			tempDigital, level, vibration, leak, flame, smoke, motorOn, inFlow, outFlow)
 
 		// Build and broadcast aggregate
 		now := time.Now()

@@ -84,14 +84,14 @@ func (c *Client) readPump() {
 		case "setMotor":
 			var p setMotorPayload
 			if err := json.Unmarshal(cmd.Payload, &p); err == nil {
-				sensors.SetMotor(p.On)
-				// Optionally broadcast updated state
+				sensors.SetManualMotor(p.On)
 				update := map[string]interface{}{"type": "motorStatus", "payload": map[string]bool{"on": p.On}}
 				if data, err := json.Marshal(update); err == nil {
 					c.Hub.Broadcast <- data
 				}
 			}
-		// Add more command types here
+		case "autoMotor":
+			sensors.ClearManualMotor()
 		default:
 			// ignore unknown commands
 		}

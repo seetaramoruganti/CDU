@@ -3,7 +3,7 @@ import { useSensorStream } from '../hooks/useSensorStream'
 import { StatusCard } from './statusCard'
 
 export default function Dashboard() {
-  const { latest, toggleMotor } = useSensorStream()
+  const { latest, toggleMotor, autoMotor } = useSensorStream()
 
   if (!latest) {
     return <div className="p-4">Connecting to sensor stream...</div>
@@ -39,9 +39,15 @@ export default function Dashboard() {
         </div>
         <button
           onClick={() => toggleMotor(!latest.motorOn)}
-          className={`px-4 py-2 rounded ${latest.motorOn ? 'bg-red-500' : 'bg-green-500'} text-white mb-8`}
+          className={`px-4 py-2 rounded ${latest.motorOn ? 'bg-red-500' : 'bg-green-500'} text-white mr-4`}
         >
           {latest.motorOn ? 'Stop Motor' : 'Start Motor'}
+        </button>
+        <button
+          onClick={() => autoMotor()}
+          className="px-4 py-2 rounded bg-blue-500 text-white mb-8"
+        >
+          Auto Motor
         </button>
       </section>
 

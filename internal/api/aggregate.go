@@ -14,7 +14,13 @@ import (
 func AggregateHandler(w http.ResponseWriter, r *http.Request) {
 	// 1) Read each sensor
 	tempDigital := sensors.ReadTempCelcius()
-	tempAnalog, _ := sensors.ReadTemperatureFromADC(nil) // or pass your ADC instance if available
+	var tempAnalog float64
+	if adc, err := sensors.InitPCF8591(); err == nil {
+		tempAnalog, _ = sensors.ReadTemperatureFromADC(adc)
+		adc.Close()
+	} else {
+		tempAnalog = 0
+	}
 	level := sensors.ReadCoolantLevel()
 	vibration := sensors.ReadVibration()
 	leak := sensors.ReadCoolantLeak()

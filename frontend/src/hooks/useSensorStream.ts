@@ -51,14 +51,24 @@ export function useSensorStream() {
     ws.onclose = () => console.log('WebSocket closed')
 
     return () => ws.close()
-  }, [latest])
+  }, [])
+
+  const autoMotor = () => {
+    if (wsRef.current?.readyState === WebSocket.OPEN) {
+      const cmd: CommandMessage = { type: 'autoMotor', payload: null }
+      wsRef.current.send(JSON.stringify(cmd))
+    }
+  }
 
   const toggleMotor = (on: boolean) => {
     if (wsRef.current?.readyState === WebSocket.OPEN) {
       const cmd = { type: 'setMotor', payload: { on } }
       wsRef.current.send(JSON.stringify(cmd))
+      if (!on) {
+        autoMotor()
+      }
     }
   }
 
-  return { latest, toggleMotor }
+  return { latest, toggleMotor, autoMotor }
 }
