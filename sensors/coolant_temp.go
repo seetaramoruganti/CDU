@@ -23,6 +23,10 @@ func InitPCF8591() (*i2c.I2C, error) {
 // The caller must have previously called InitPCF8591() and pass that *i2c.I2C here.
 // If any I²C transaction times out or fails, it returns an error.
 func ReadTemperatureFromADC(dev *i2c.I2C) (float64, error) {
+	if dev == nil {
+		return 0, fmt.Errorf("I2C device is nil")
+	}
+
 	// 1) Write the control byte 0x40 to select AIN0 (single‐ended, no auto‐increment)
 	if _, err := dev.WriteBytes([]byte{0x40}); err != nil {
 		return 0, fmt.Errorf("I2C write failed: %w", err)
@@ -42,9 +46,9 @@ func ReadTemperatureFromADC(dev *i2c.I2C) (float64, error) {
 		return 0, fmt.Errorf("real read failed: %w", err)
 	}
 
-	raw := data[0]                             // 0–255
-	voltage := float64(raw) * 3.3 / 255.0      // map to 0–3.300 V
-	tempC := voltage * 10.0 - 2                  // LM35: 0.10 V per °C → multiply by 10
+	raw := data[0]                        // 0–255
+	voltage := float64(raw) * 3.3 / 255.0 // map to 0–3.300 V
+	tempC := voltage*10.0 - 2             // LM35: 0.10 V per °C → multiply by 10
 
 	// small delay to avoid hammering the bus if called rapidly
 	time.Sleep(4 * time.Millisecond)
